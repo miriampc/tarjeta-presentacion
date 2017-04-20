@@ -1,0 +1,10 @@
+*{
+  font-family: fantasy;
+  margin: 0;
+  padding: 0;
+}
+
+.image img{
+  width: 700px;
+  height: 500px;
+}
